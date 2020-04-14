@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-stream-consumer8802" />
+        <module name="cloud-ali-nacos-client3377" />
+        <module name="cloud-ali-sentinal-service8401" />
+        <module name="cloud-provider-payment-hystrix-8001" />
+        <module name="cloud-config-client3366" />
+        <module name="cloud-stream-provider8801" />
+        <module name="cloud-alibaba-order83" />
+        <module name="cloud-comsumer-order-con" />
+        <module name="cloud-api-commons" />
+        <module name="cloud-comsumer-order-z" />
+        <module name="cloud-other" />
+        <module name="cloud-consumer-order" />
+        <module name="cloud-erueka-server_1" />
+        <module name="cloud-provider-payment-z-8004" />
+        <module name="cloud-alibaba-payment9002" />
+        <module name="cloud-alibaba-payment9001" />
+        <module name="seate-order-service2001" />
+        <module name="cloud-alibaba-order84" />
+        <module name="cloud-provider-payment_8002" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud-config-client3355" />
+        <module name="cloud-provider-payment-c-8006" />
+        <module name="cloud-provider-payment" />
+        <module name="cloud-consumer-hys-dashboard9001" />
+        <module name="cloud-config-center3344" />
+        <module name="cloud-consumer-order-feign" />
+        <module name="cloud-erueka-server" />
+        <module name="cloud-consumer-order-hystrix" />
+        <module name="cloud-stream-consumer8803" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
